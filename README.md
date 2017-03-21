@@ -1,1 +1,2 @@
-# xap-rest-blueprints
+# XAP REST Management Blueprints
+
