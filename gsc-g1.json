@@ -1,0 +1,8 @@
+{
+  "host": "172.17.0.4",
+  "memory": "1g",
+  "vmArguments": [
+    "-server -XX:+UseG1GC -XX:MaxGCPauseMillis=500 -XX:InitiatingHeapOccupancyPercent=50"
+  ]
+}
+
